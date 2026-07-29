@@ -1,23 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aarin</h1>
-<h3 align="center">Driven 16 year old highly interested in AI and Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarins-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aarins-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarins-dev" alt="aarins-dev" /></a> </p>
 
-- 🔭 I’m currently working on [Skin Wagers](https://www.roblox.com/games/91277599303610/GunRngRemake)
 
 - 🌱 I’m currently learning **All about AI and Data Science**
 
 - 👯 I’m looking to collaborate on **Projects Related to Data Science and AI**
 
-- 👨‍💻 All of my projects are available at [https://aarins-dev.github.io/Portfolio-Website/](https://aarins-dev.github.io/Portfolio-Website/)
-
-- 💬 Ask me about **Django, Python, REACT API's, and more!**
-
 - 📫 How to reach me **bagputursketcherson@gmail.com**
-
-- ⚡ Fun fact **I like to make games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
