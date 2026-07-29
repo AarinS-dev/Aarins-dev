@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **All about AI and Data Science**
 
-- 👯 I’m looking to collaborate on **Projects Related to Data Science and AI**
-
-- 📫 How to reach me **bagputursketcherson@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
