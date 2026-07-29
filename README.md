@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **All about AI and Data Science**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
